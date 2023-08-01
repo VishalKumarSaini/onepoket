@@ -1,0 +1,27 @@
+{
+  "name": "onepoket",
+  "version": "1.0.0",
+  "description": "Node Js Assessment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "task1": "node ./src/task1/index.js",
+    "task2": "node ./src/task2/sum.js",
+    "task3": "node ./src/task3/count.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalKumarSaini/onepoket.git"
+  },
+  "author": "sainivk0005@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishalKumarSaini/onepoket/issues"
+  },
+  "homepage": "https://github.com/VishalKumarSaini/onepoket#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}

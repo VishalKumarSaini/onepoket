@@ -1,0 +1,3 @@
+Chandrayaan-3 is the third and most recent lunar Indian Space Research exploration mission under the Chandrayaan programme.
+It consists of a lander named Vikram and a rover named Pragyan similar to Chandrayaan-2, but does not have an orbiter.
+Its propulsion module behaves like a communication relay satellite.
